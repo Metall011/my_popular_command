@@ -1,0 +1,33 @@
+Как создать requirements.txt
+pip freeze > requirements.txt
+
+-------------------------------------------------------
+scp -r C:\...\DEED root@<ip>:/.../deed.lol
+
+source venv/bin/activate
+-------------------------------------------------------
+как переместить папку в linux
+mv dir todir
+
+показать дерево папок
+tree -L 3 уровень выводить дерево не глубже определенного уровня вложенности
+
+
+
+-------------------------------------------------------
+Как сменить владельца папки
+sudo chown -R vladimir:www-data ~/Видео/losst
+
+-------------------------------------------------------
+собрать статику (запускается из виртуальной среды)
+python manage.py collectstatic
+
+-------------------------------------------------------
+Перезагрузки после обновления
+sudo systemctl daemon-reload
+sudo systemctl restart gunicorn.socket gunicorn.service
+sudo nginx -t && sudo systemctl restart nginx
+
+-------------------------------------------------------
+git pull origin main
+git pull https://github.com/Metall011/DEED.git main
