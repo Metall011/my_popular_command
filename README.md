@@ -7,3 +7,7 @@
 - [Python](https://github.com/Metall011/Notes/blob/main/python)
 - [nginx & gunicorn](https://github.com/Metall011/Notes/blob/main/nginx%20%26%20gunicorn)
 - [Server](https://github.com/Metall011/Notes/blob/main/DEED)
+
+# Видео уроки
+
+- [GIT](https://www.youtube.com/playlist?list=PLRs8EELOYKc44Y_fKFvADdPXbrYZDQqr0)
